@@ -1,0 +1,7 @@
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\bin\Debug\FibanocciSeries.exe.config
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\bin\Debug\FibanocciSeries.exe
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\bin\Debug\FibanocciSeries.pdb
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\obj\Debug\FibanocciSeries.csproj.AssemblyReference.cache
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\obj\Debug\FibanocciSeries.csproj.CoreCompileInputs.cache
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\obj\Debug\FibanocciSeries.exe
+C:\Users\karun\source\repos\FibanocciSeries\FibanocciSeries\obj\Debug\FibanocciSeries.pdb
